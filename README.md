@@ -33,3 +33,4 @@ Edit `src/App.jsx` to update:
 - Experience
 - Education
 
+#remove unnecessary things
