@@ -114,9 +114,6 @@ function App() {
             <a href="#contact" onClick={closeMenu}>
               Contact
             </a>
-            <a href="./public/Resume.pdf" target="_blank" rel="noreferrer" onClick={closeMenu}>
-              Resume
-            </a>
           </nav>
         </div>
       </header>
@@ -400,7 +397,7 @@ function App() {
 
       <footer className="footer">
         <div className="container footer-content">
-          <p>© {new Date().getFullYear()} Created By Mohd Athar . All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Created By Mohd Athar Using Chatgpt. All rights reserved.</p>
           <p>Built with React.js</p>
         </div>
       </footer>
