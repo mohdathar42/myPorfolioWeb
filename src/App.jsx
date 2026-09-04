@@ -114,6 +114,9 @@ function App() {
             <a href="#contact" onClick={closeMenu}>
               Contact
             </a>
+            <a href="./public/Resume.pdf" target="_blank" rel="noreferrer" onClick={closeMenu}>
+              Resume
+            </a>
           </nav>
         </div>
       </header>
