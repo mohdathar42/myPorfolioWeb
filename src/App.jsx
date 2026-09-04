@@ -398,7 +398,7 @@ function App() {
       <footer className="footer">
         <div className="container footer-content">
           <p>© {new Date().getFullYear()} Created By Mohd Athar Using Chatgpt. All rights reserved.</p>
-          <p>Built with React.js</p>
+          <p>Built with React.js single page application</p>
         </div>
       </footer>
     </div>
