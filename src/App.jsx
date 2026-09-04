@@ -360,6 +360,18 @@ function App() {
                 </p>
               </div>
             </div>
+              <div className="education-card">
+              <div className="education-icon">MCA</div>
+              <div>
+                <span className="education-period">Postgraduate</span>
+                <h3>Master of Computer Applications</h3>
+                <h4>Jamia Hamdard University South Delhi</h4>
+                <p>
+                  Focused on software development, web technologies, database
+                  systems and application development.
+                </p>
+              </div>
+            </div>
           </div>
         </section>
 
